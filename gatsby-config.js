@@ -4,7 +4,7 @@ module.exports = {
     title: `Zoom Starter Personal Blog`,
     author: `Shrijana`,
     description: `Welcome to the Zoom Developer Platform.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://https://shrijana-zoom-testblog.netlify.app/`,
     social: {
       twitter: `zoom_us`,
     },
